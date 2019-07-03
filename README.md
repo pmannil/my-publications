@@ -1,2 +1,2 @@
 # my-publications
-these are publications during my bachelors degree
+these are publications,reports and ppts presented  during my bachelors degree
